@@ -1,7 +1,20 @@
+# Design Patterns em Java: Avançando nas boas práticas de programação - Java Developer
 
-Este repositorio trata-se do uso das Boas práticas em Java com a finalidade de:
- -Isolar o código de bibliotecas com o pattern Adapter
- -Tornar flexível a mudança de um método com o pattern Decorator
- -Simplificar a interface de uso de uma classe com o pattern Facade
- -Aprender a compor comportamentos com o pattern Composite
- -Utilizar o pattern Proxy para implementar um mecanismo de cache
+Desafio: Entender um pouco sobre modelagem orientada e objetos e conhecer os famosos padrões de projeto usando Java.
+
+## 📝 Recursos usados 
+
+- Adapter
+- Decorator
+- Composite
+- Facade
+- Proxy
+
+## ✍️ Autor
+
+**Gustavo Dias - JAVA Developer**
+
+- Meu Portfólio: https://www.gustavdias.dev/
+- Instagram: [@gustavvemerson](https://www.instagram.com/gustavvemerson/)
+- Github: [@Alvarenga-Dev](https://github.com/gustavodias)
+- Linkdin: [gustavoemersonfd](https://www.linkedin.com/in/gustavoemersonfd/)
