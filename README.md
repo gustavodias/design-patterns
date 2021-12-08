@@ -16,5 +16,5 @@ Desafio: Entender um pouco sobre modelagem orientada e objetos e conhecer os fam
 
 - Meu Portfólio: https://www.gustavdias.dev/
 - Instagram: [@gustavvemerson](https://www.instagram.com/gustavvemerson/)
-- Github: [@Alvarenga-Dev](https://github.com/gustavodias)
-- Linkdin: [gustavoemersonfd](https://www.linkedin.com/in/gustavoemersonfd/)
+- Github: [@gustavodias](https://github.com/gustavodias)
+- Linkdin: [@gustavoemersonfd](https://www.linkedin.com/in/gustavoemersonfd/)
