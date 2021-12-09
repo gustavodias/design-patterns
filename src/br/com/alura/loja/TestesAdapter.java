@@ -4,11 +4,9 @@ import br.com.alura.loja.http.JavaHttpClient;
 import br.com.alura.loja.orcamento.Orcamento;
 import br.com.alura.loja.orcamento.RegistroDeOrcamento;
 
-import java.math.BigDecimal;
-
 public class TestesAdapter {
     public static void main(String[] args) {
-        Orcamento primeiro = new Orcamento(new BigDecimal("200"), 6);
+        Orcamento primeiro = new Orcamento();
         primeiro.aprovar();
         primeiro.finalizar();
 
