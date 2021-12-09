@@ -17,6 +17,8 @@ public class TesteComposicao {
         novo.adicionarItem(new ItemOrcamento(new BigDecimal("200")));
         novo.adicionarItem(antigo);
 
+
+
         CalculadoraDeDescontos calcula = new CalculadoraDeDescontos();
         System.out.println("Antigo: " + calcula.calcular(antigo));
         System.out.println("Novo: " + calcula.calcular(novo));
